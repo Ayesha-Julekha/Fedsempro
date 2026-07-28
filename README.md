@@ -1,4 +1,4 @@
-# FedSemPro: Robust Federated Bangla Sentiment Classification
+# FedSemPro: A Semantic Prototype-Based Framework for Early Detection and Robust Aggregation Against Label-Flipping Attacks in Federated Bangla NLP
 
 This repository contains the implementation of **FedSemPro**, a federated learning framework for detecting malicious client  under label-flipping attacks. The framework supports both **IID** and **non-IID** data distributions and allows experiments with different numbers of honest and malicious clients.
 
